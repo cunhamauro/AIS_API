@@ -1,0 +1,6 @@
+@AIS_API_Mobile_HostAddress = http://localhost:5003
+
+GET {{AIS_API_Mobile_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
